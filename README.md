@@ -1,13 +1,6 @@
 <p align="center"><img src="https://i.ibb.co/pKPRZnh/68747470733a2f2f69302e77702e636f6d2f626c6f672e3333306f686d732e636f6d2f77702d636f6e74656e742f75706c6f.jpg?resize=1024%2C555&amp;ssl=1" alt="project-image"></p>
 <h1 align="center" id="title">Jupyter Notebook</h1>
 <p id="description">A collection of Jupyter notebook that can be used at Google colab to make Google Drive work easier</p>
-
-<hr>
-<div align="center">
-	<h1>Run Binder</h1>
-</div>
-<hr>
-
 <p align="center">
   <a href=https://github.com/Kavindu-Dilhara/Jupyter-notebook ">
     <img src="https://img.shields.io/badge/Jupyter%20Notebook-10-brightgreen">
@@ -67,6 +60,8 @@
 </details>
 
 ---------------
+### Run Binder
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/kavidu-dilhara/Jupyter-Notebook/main)
 ### License
 This project is protected by the `MIT License.`
 Do not edit copyright messages!
