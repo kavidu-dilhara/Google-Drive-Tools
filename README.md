@@ -63,7 +63,7 @@
 ### Run Binder
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/kavidu-dilhara/Jupyter-Notebook/main)
 ### License
-This project is protected by the `MIT License.`
+This project is protected by the ` GPL-3.0 license.`
 Do not edit copyright messages!
 
 ### Disclaimer
