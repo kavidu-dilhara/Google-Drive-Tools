@@ -4,9 +4,7 @@
 
 <hr>
 <div align="center">
-	<h1>Full Tutorial 📜</h1>
-	<a href="https://kavindudilhara.ml/">
-<img src="https://img.shields.io/badge/Click%20Here%20-To%20Watch%20Tutorial-red" width="200"></br></a>
+	<h1>Run Binder</h1>
 </div>
 <hr>
 
@@ -15,30 +13,30 @@
     <img src="https://img.shields.io/badge/Jupyter%20Notebook-10-brightgreen">
   </a>
   <a href="https://github.com/Kavindu-Dilhara/Jupyter-notebook">
-    <img src="https://img.shields.io/github/languages/code-size/Kavindu-Dilhara/Jupyter-notebook">
+    <img src="https://img.shields.io/github/languages/code-size/kavidu-dilhara/Jupyter-Notebook">
  <p align="center">   
   </a>
   </a>
   <a href="https://github.com/Kavindu-Dilhara/Jupyter-notebook/fork">
-    <img src="https://img.shields.io/github/forks/Kavindu-Dilhara/Jupyter-notebook?style=social">
+    <img src="https://img.shields.io/github/forks/kavidu-dilhara/Jupyter-Notebook?style=social">
    
   </a>
   <a href="https://github.com/Kavindu-Dilhara/Jupyter-notebook/stargazers">
-    <img src="https://img.shields.io/github/stars/Kavindu-Dilhara/Jupyter-notebook?style=social">
+    <img src="https://img.shields.io/github/stars/kavidu-dilhara/Jupyter-Notebook?style=social">
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/Kavindu-Dilhara/Jupyter-notebook ">
-    <img src="https://img.shields.io/github/repo-size/Kavindu-Dilhara/Jupyter-notebook">
+    <img src="https://img.shields.io/github/repo-size/kavidu-dilhara/Jupyter-Notebook">
 
   </a>
   <a href="httsp://github.com/Kavindu-Dilhara/Jupyter-notebook ">
-    <img src="https://img.shields.io/github/license/Kavindu-Dilhara/Jupyter-notebook?style=plastic">
+    <img src="https://img.shields.io/github/last-commit/kavidu-dilhara/Jupyter-Notebook/main">
 
   </a>
   <a href="httsp://github.com/Kavindu-Dilhara/Jupyter-notebook ">
-    <img src="https://img.shields.io/github/languages/top/Kavindu-Dilhara/Jupyter-notebook?color=purple&label=Jupyter notebook&style=plastic">
+    <img src="https://img.shields.io/github/languages/top/kavidu-dilhara/Jupyter-Notebook?color=purple&label=Jupyter notebook&style=plastic">
 
   </a>
   <a href="https://kavindudilhara.ml/ ">
@@ -69,7 +67,6 @@
 </details>
 
 ---------------
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/kavidu-dilhara/Jupyter-Notebook.git/main)
 ### License
 This project is protected by the `MIT License.`
 Do not edit copyright messages!
