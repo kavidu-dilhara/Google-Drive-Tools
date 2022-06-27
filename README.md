@@ -55,7 +55,7 @@
 </details>
 <details>
  <summary><b>Usage:🖱️</b></summary><br/>
-<a href="https://colab.research.google.com/github.com/Kavindu-Dilhara/Colab_Notebooks/blob/main/Video%20converter/Convert_OR_Compress_Videos.ipynb" target="_blank"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+
 
 </details>
 
