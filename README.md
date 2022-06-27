@@ -43,7 +43,7 @@
 
 ### What is the Google Colab?
 **Colaboratory, or “Colab” for short, is a product from Google Research. Colab allows anybody to write and execute arbitrary python code through the browser, and is especially well suited to machine learning, data analysis and education..**
-### What is a Jupyter Notebook?
+### What is a Jupyter Notebook ?
 **A Jupyter Notebook is an open source web application that allows data scientists to create and share documents that include live code, equations, and other multimedia resources.**
 ### How do Jupyter Notebooks work?
 **A Jupyter notebook has two components: a front-end web page and a back-end kernel. The front-end web page allows data scientists to enter programming code or text in rectangular "cells." The browser then passes the code to the back-end kernel which runs the code and returns the results.**
