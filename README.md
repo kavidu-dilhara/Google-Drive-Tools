@@ -32,7 +32,7 @@
     <img src="https://img.shields.io/github/languages/top/kavidu-dilhara/Jupyter-Notebook?color=purple&label=Jupyter notebook&style=plastic">
 
   </a>
-  <a href="https://kavindudilhara.ml/ ">
+  <a href="https://kavidudilhara.ml/ ">
     <img src="https://img.shields.io/static/v1?label=Author&message=kavidu%20Dilhara&color=purple&style=plastic">
 
   </a>
