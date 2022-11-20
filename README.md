@@ -39,7 +39,7 @@
   </p>
 
 ### Tool List⚙️
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/kavidu-dilhara/Google-Drive-Tools/main)
+[![Google Drive tools](https://img.shields.io/badge/Open-Google%20Drive%20Tools-yellowgreen)](https://github.com/kavidu-dilhara/Google-Drive-Tools/blob/main/Tools/info.md)
 
 <hr>
 <details>
