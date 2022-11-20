@@ -38,9 +38,26 @@
   </a>
   </p>
 
-### Tool List⚙️
-[![Google Drive tools](https://img.shields.io/badge/Open-Google%20Drive%20Tools-yellowgreen)](https://github.com/kavidu-dilhara/Google-Drive-Tools/blob/main/Tools/info.md)
+### Special all-in-one
+[![Google Drive tools](https://img.shields.io/badge/Open-All%20Google%20Drive%20Tools-yellowgreen)](https://github.com/kavidu-dilhara/Google-Drive-Tools/blob/main/Tools/info.md)
 
+
+
+### Features
+
+* Direct Link To GDrive [`Click Here`](https://colab.research.google.com/github/kavidu-dilhara/Google-Drive-Tool/blob/main/Tools/Any_Direct_File_To_Google_Drive_Downloader.ipynb)
+* Torrent To GDrive [`Click Here`](https://colab.research.google.com/github.com/kavidu-dilhara/Google-Drive-Tools/blob/main/Tools/Torrent_To_Google_Drive_Downloader.ipynb)
+* Facebook Video To GDrive [`Click Here`](https://colab.research.google.com/github.com/kavidu-dilhara/Google-Drive-Tools/blob/main/Tools/Facebook_Video_Download_To_Google_Drive.ipynb)
+* Mediafire To GDrive [`Click Here`](https://colab.research.google.com/github.com/kavidu-dilhara/Google-Drive-Tools/blob/main/Tools/Mediafire_to_Google_Drive.ipynb)
+* Mega Cloud To GDrive [`Click Here`](https://colab.research.google.com/github.com/kavidu-dilhara/Google-Drive-Tools/blob/main/Tools/Mega_Multiple_public_Links_Download_to_Googlr_Drive.ipynb)
+* Youtube Channel To GDrive [`Click Here`](https://colab.research.google.com/github.com/kavidu-dilhara/Google-Drive-Tools/blob/main/Tools/Youtube_channel_All_Videos_Download_to_your_Google_Drive.ipynb)
+* Spotify Playlist To GDrive [`Click Here`](https://colab.research.google.com/github.com/kavidu-dilhara/Google-Drive-Tools/blob/main/Tools/Spotify_Playlist_Download_To_Google_Drive_using_spotdl.ipynb)
+* Compress File & Folder In GDrive [`Click Here`](https://colab.research.google.com/github.com/kavidu-dilhara/Google-Drive-Tools/blob/main/Tools/Compress_Files_Folders_to_Zip_Tar_7z_Archives.ipynb)
+* Extract ZIP/TAT/7Z In GDrive [`Click Here`](https://colab.research.google.com/github.com/kavidu-dilhara/Google-Drive-Tools/blob/main/Tools/Extract_Zip_Tar_Rar_7z_Files.ipynb)
+* Convert or Compress Video In GDrive [`Click Here`](https://colab.research.google.com/github.com/kavidu-dilhara/Google-Drive-Tools/blob/main/Tools/Convert_OR_Compress_Videos.ipynb)
+* Check File & Folder Size In GDrive [`Click Here`](https://colab.research.google.com/github.com/kavidu-dilhara/Google-Drive-Tools/blob/main/Tools/Check_folders_size_in_google_drive.ipynb)
+* Transfer File & Folder Different GDrive [`Click Here`](https://colab.research.google.com/github.com/kavidu-dilhara/Google-Drive-Tools/blob/main/Tools/One_google_drive_to_another_google_drive_data_Transfer.ipynb)
+* GDrive streamable Link Genarator[`Click Here`](https://colab.research.google.com/github.com/kavidu-dilhara/Google-Drive-Tools/blob/main/Tools/Google_Drive_Streamable_Link_Generator_for_Media_Files.ipynb)
 <hr>
 <details>
  <summary><b>F.A.Q Google Colab<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Google_Colaboratory_SVG_Logo.svg/1280px-Google_Colaboratory_SVG_Logo.svg.png" width="10%"></b></summary><br/>
