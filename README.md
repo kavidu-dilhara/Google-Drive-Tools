@@ -58,6 +58,26 @@
 * Check File & Folder Size In GDrive [`Click Here`](https://colab.research.google.com/github.com/kavidu-dilhara/Google-Drive-Tools/blob/main/Tools/Check_folders_size_in_google_drive.ipynb)
 * Transfer File & Folder Different GDrive [`Click Here`](https://colab.research.google.com/github.com/kavidu-dilhara/Google-Drive-Tools/blob/main/Tools/One_google_drive_to_another_google_drive_data_Transfer.ipynb)
 * GDrive streamable Link Genarator[`Click Here`](https://colab.research.google.com/github.com/kavidu-dilhara/Google-Drive-Tools/blob/main/Tools/Google_Drive_Streamable_Link_Generator_for_Media_Files.ipynb)
+
+<blockquote>
+<h5> Change Log </h5>
+<pre>
+  <code>Added ✅
+•Direct Link To GDrive  
+•Torrent To GDrive  
+•Facebook Video To GDrive  
+•Mediafire To GDrive  
+•Mega Cloud To GDrive  
+•Youtube Channel To GDrive  
+•Spotify Playlist To GDrive  
+•Compress File & Folder In GDrive  
+•Extract ZIP/TAT/7Z In GDrive  
+•Convert or Compress Video In GDrive  
+•Check File & Folder Size In GDrive  
+•Transfer File & Folder Different GDrive  
+•GDrive streamable Link Genarator</code>
+</pre>
+</blockquote>
 <hr>
 <details>
  <summary><b>F.A.Q Google Colab<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Google_Colaboratory_SVG_Logo.svg/1280px-Google_Colaboratory_SVG_Logo.svg.png" width="10%"></b></summary><br/>
