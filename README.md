@@ -38,8 +38,8 @@
   </a>
   </p>
 
-### Special all-in-one
-[![Google Drive tools](https://img.shields.io/badge/Open-All%20Google%20Drive%20Tools-yellowgreen)](https://github.com/kavidu-dilhara/Google-Drive-Tools/blob/main/Tools/info.md)
+### Special [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F72C85&width=435&lines=All+In+One+NootBook)](https://git.io/typing-svg)
+<a href="https://colab.research.google.com/github/kavidu-dilhara/Google-Drive-Tools/blob/main/Tools/Google_Drive_Tools.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg"></a>
 
 
 ### Features
