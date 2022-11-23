@@ -63,7 +63,11 @@
 <blockquote>
 <h5> Change Log </h5>
 <pre>
+
   <code>Added ✅
+•All In One Notebook
+
+Added ✅
 •Direct Link To GDrive  
 •Torrent To GDrive  
 •Facebook Video To GDrive  
