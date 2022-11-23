@@ -32,7 +32,7 @@
     <img src="https://img.shields.io/github/languages/top/kavidu-dilhara/Google-Drive-Tools?color=purple&label=Jupyter notebook&style=plastic">
 
   </a>
-  <a href="https://kavidudilhara.ml/ ">
+  <a href="# ">
     <img src="https://img.shields.io/static/v1?label=Author&message=kavidu%20Dilhara&color=purple&style=plastic">
    
   </a>
